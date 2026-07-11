@@ -19,7 +19,7 @@ def dividir(a: float, b: float) -> float:
 if __name__ == "__main__":
     a = float(input("Digite o primeiro número: "))
     b = float(input("Digite o segundo número: "))
-
+   
     print(f"\nResultados:")
     print(f"  Soma:        {somar(a, b)}")
     print(f"  Subtração:   {subtrair(a, b)}")
